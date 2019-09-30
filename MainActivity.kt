@@ -36,6 +36,7 @@ class MainActivity : AppCompatActivity() {
         toast.duration = Toast.LENGTH_SHORT
         toast.view = layout
         toast.show()
+        toast.show(jhdkjed)
 
 
     }
